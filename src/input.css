@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imgFeed{
+    position: absolute;
+    width: 243px;
+    top: 68px;
+    right: 60px;
+}
